@@ -4,4 +4,8 @@
   "description": "Proxy server to bypass Cloudflare protection",
   "author": "Diego Heras (ngosang / ngosang@hotmail.es)",
   "license": "MIT"
+  "engines": {
+  "node": "14.x"
+  }
 }
+
